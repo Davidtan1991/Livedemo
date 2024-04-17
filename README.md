@@ -1,5 +1,3 @@
 # Livedemo
 
 Hello
-
-Kia Ora
